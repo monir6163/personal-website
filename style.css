@@ -1,0 +1,94 @@
+body{
+    margin: 0;
+}
+section{
+    height: 500px;
+    padding-bottom: 150px;
+}
+h1{
+    font-size: 50px;
+}
+h2{
+    font-size: 40px;
+}
+p{
+    color: #a9a9a9;
+}
+.pink-highlight{
+    color: #EC4C7A;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(45deg, green, tomato);
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: #fff;
+    font-weight: 700;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 100%;
+}
+.half-width p{
+    padding-bottom: 30px;
+}
+.latest-width{
+    width: 25%;
+    float: left;
+    padding-left: 6%;
+}
+.latest-width img{
+    width: 100%;
+}
+.work{
+    text-align: center;
+}
+.top-banner{
+    background-image: url(images/header-bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.dream-area{
+    height: 600px;
+    padding: 60px;
+    background-image: url(images/biography-bg.png);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.latest-work{
+    height: 250px;
+    background-image: url(images/latest-work-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: cover;
+}
+.client-says{
+    background-image: url(images/footer-bg.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.client h3, p{
+    text-align: center;
+}
+.talk{
+    color: #000;
+    font-size: 16px;
+    font-weight: 600;
+}
+.email{
+    padding-top: 20px;
+    text-align: center;
+    background-color: #EC4C7A;
+    color: #fff;
+    padding: 10px;
+}
+footer p{
+    text-align: center;
+    font-size: 16px;
+}
